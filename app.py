@@ -11,8 +11,8 @@ st.info("※ スコアはブラウザを閉じるとリセットされます。"
 
 # 1. Pyxel公式のWebランチャーを利用する方法
 # 自分のGitHubのURLを指定することで、Streamlit内でゲームを読み込めます
-github_user = "あなたのユーザー名"
-repo_name = "リポジトリ名"
+github_user = "Taketo-oss"
+repo_name = "MARIOMODOKI"
 game_file = "game.py"
 
 pyxel_url = f"https://pyxel.jp/launcher/?run={github_user}.{repo_name}.{game_file}"
